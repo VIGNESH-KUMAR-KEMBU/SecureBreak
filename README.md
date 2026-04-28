@@ -10,7 +10,7 @@ The SecureBreak Dataset is specifically designed to classify responses as safe o
 - **Number of Records:** 3059  
 - **Number of Features:** 9
 
-## 📖 Citation
+<!-- ## 📖 Citation
 
 <!-- ```bibtex
 @misc{arazzi2026securebreakdatasetsafe,
