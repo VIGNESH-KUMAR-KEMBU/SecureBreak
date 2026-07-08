@@ -2,6 +2,8 @@
 
 The SecureBreak Dataset is specifically designed to classify responses as safe or unsafe. This dataset supports the development of reliable response-level classifiers.
 
+This work was developed by researchers from the Digital Content Analysis Laboratory (DCALab) at the University of Pavia (UNIPV). More information is available at the DCALab GitHub organization: https://github.com/DCALab-UNIPV.
+
 ## 📁 Dataset Overview
 
 - **Name:** SecureBreak  
